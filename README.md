@@ -71,7 +71,7 @@ saber. E caso você conheça alguém que se identidique com o conteúdo, não de
 
 <p dir="auto"> 
  <em>
-  Projeto desenvolvido utilizando os conhecimentos adquiridos dentro da trilha de aprendizado do <strong> Módulo 2 | HTML/CSS/JS </strong>. Durante o 
+  Projeto desenvolvido utilizando os conhecimentos adquiridos dentro da trilha de aprendizado do <strong> Módulo 3 | Angular </strong>. Durante o 
   <strong> Santander Bootcamp Fullstack Developer 2022! </strong><br>
   Conteudos ministrados pela Especialista: Nathalia Corrêa ( Senior Software Development Engineer | BTG Pactual ) <br>
   Programa ofertado Pelo <strong> Santander </strong> em parceria com a <a href=" https://www.dio.me/"> <strong>  Digital Innovation One ❤️ </strong></a>
